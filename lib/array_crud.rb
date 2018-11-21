@@ -25,18 +25,13 @@ end
 
 def retrieve_element_from_index(array, index_number)
   array[0]
-  array [1]
-  array [2]
-  array[3]
-  array [4]
-  array [5]
 end
 
 def retrieve_first_element_from_array(array)
-  array [-1]
+  array [1]
 end
 
 def retrieve_last_element_from_array(array)
-  
+   array [-1]
 end
 
